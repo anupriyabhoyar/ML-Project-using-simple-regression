@@ -1,51 +1,48 @@
-# ML-Project-01-using-simple-regression-
-🏠 SCT_MLTask1 – House Price Prediction using regression
-📌 Task Objective
-To build a supervised machine learning model that predicts house prices based on features like size, location, number of bedrooms, etc. This task focuses on understanding linear regression and improving model accuracy through preprocessing and evaluation.
+# 🏠 House Price Prediction using Regression
 
-🧠 What I Did
-Loaded and explored the house_prices.csv dataset
+## 📌 Project Overview
+This project focuses on building a supervised machine learning model to predict house prices using various housing features such as area, number of bedrooms, bathrooms, and other property details.
 
-Cleaned data: handled missing values and outliers
+The project demonstrates the complete machine learning workflow including data preprocessing, exploratory data analysis, feature engineering, model building, and evaluation using Linear Regression.
 
-Performed Exploratory Data Analysis (EDA) to identify correlations and trends
+---
 
-Applied feature engineering (e.g., encoding categorical variables)
+## 🧠 Features Implemented
+- Loaded and explored the dataset
+- Handled missing values and outliers
+- Performed Exploratory Data Analysis (EDA)
+- Analyzed feature correlations and trends
+- Applied feature engineering and categorical encoding
+- Built and trained a Linear Regression model
+- Evaluated model performance using RMSE and R² Score
+- Visualized predictions and residual analysis
 
-Built and trained a Linear Regression model
+---
 
-Evaluated model performance using RMSE and R² Score
+## 🛠 Technologies & Libraries Used
+- Python
+- Pandas & NumPy – Data preprocessing and manipulation
+- Matplotlib & Seaborn – Data visualization
+- Scikit-learn – Machine learning model training and evaluation
 
-Visualized predictions and residuals for analysis
+---
 
-🛠 Tools & Libraries Used
-Python
+## 📊 Model Output
+- Successfully trained a Linear Regression model for house price prediction
+- Compared actual vs predicted house prices
+- Visualized residuals and model performance metrics
+- Evaluated model accuracy using RMSE and R² Score
 
-Pandas, NumPy – Data manipulation
+---
 
-Matplotlib, Seaborn – Data visualization
+## 📚 Key Learnings
+- Understanding supervised learning with Linear Regression
+- Importance of data cleaning and preprocessing
+- Hands-on experience with EDA and feature selection
+- Model evaluation and performance analysis
+- Data visualization for better insights
 
-Scikit-learn – Model training, evaluation
+---
 
-
-
-📊 Output
-Successfully trained a Linear Regression model to predict house prices
-
-Visualized the relationship between actual and predicted prices
-
-Analyzed residuals and performance metrics
-
-
-
-📚 What I Learned
-Supervised learning through Linear Regression
-
-The importance of data preprocessing in model performance
-
-Hands-on experience with EDA and feature selection
-
-Model evaluation using RMSE and R² Score
-
-💼 Internship
-This project is part of my ongoing Machine Learning Internship at SkillCraft Technology under the SCT Learning Track.
+## 🚀 Project Goal
+The main objective of this project was to understand regression models and apply machine learning techniques to solve a real-world prediction problem.
